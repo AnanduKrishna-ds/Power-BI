@@ -8,9 +8,11 @@ This project demonstrates the full data analyst workflow — from messy raw data
 ---
 
 ##  Dashboard Preview
-![Telco Dashboard](Telco Churn 1.png)
-![Telco Dashboard](Telco Churn 2.png)
-![Telco Dashboard](Telco Churn 3.png)
+![Telco Dashboard](telco_churn_1.png)
+
+![Telco Dashboard](telco_churn_2.png)
+
+![Telco Dashboard](telco_churn_3.png)
 
 **Key Metrics:**
 - Churn Rate: **26.54%**
