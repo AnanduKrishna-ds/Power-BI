@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard Portfolio
+#  Power BI Dashboard Portfolio
 
 This repository contains Power BI dashboard projects focused on business analytics and data visualization.
 
-## 📁 Projects Included
+##  Projects Included
 
-### 1️⃣ HR Analytics Dashboard
+### 1️ HR Analytics Dashboard
 
 **Description:**  
 This dashboard analyzes employee data to identify workforce trends, attrition patterns, and salary distribution insights.
@@ -16,11 +16,11 @@ This dashboard analyzes employee data to identify workforce trends, attrition pa
 - Salary vs Age Analysis
 - Employee Status Distribution
 
-📂 Folder: `HR-Analytics-Dashboard`
+ Folder: `HR-Analytics-Dashboard`
 
 ---
 
-### 2️⃣ Telco Customer Churn Dashboard
+### 2️ Telco Customer Churn Dashboard
 
 **Description:**  
 This dashboard analyzes customer churn behavior in a telecom company to identify factors affecting customer retention.
@@ -32,11 +32,11 @@ This dashboard analyzes customer churn behavior in a telecom company to identify
 - Contract Type Impact on Churn
 - Tenure-Based Churn Patterns
 
-📂 Folder: `Telco-Churn-Dashboard`
+ Folder: `Telco-Churn-Dashboard`
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Power BI
 - Power Query
@@ -45,7 +45,7 @@ This dashboard analyzes customer churn behavior in a telecom company to identify
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 These dashboards were developed as part of my data analytics portfolio to demonstrate skills in:
 
