@@ -57,7 +57,7 @@ These dashboards were developed as part of my data analytics portfolio to demons
 
 ---
 
-## 📌 Author
+##  Author
 
 **Anandu Krishna**
 
