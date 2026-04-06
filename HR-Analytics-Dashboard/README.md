@@ -9,7 +9,7 @@ This project demonstrates the full data analyst workflow — from messy raw data
 
 ##  Dashboard Preview
 
-(Add screenshot here)
+![HR Dashboard](hr_dashboard.png)
 
 Key Metrics:
 
