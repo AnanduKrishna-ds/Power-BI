@@ -1,13 +1,13 @@
 # HR Analytics Dashboard — Power BI
 
-## 📊 Overview
+##  Overview
 An interactive HR Analytics Dashboard built in Power BI analyzing workforce data for **1,020 employees** across **6 departments** and **6 US states**.
 
 This project demonstrates the full data analyst workflow — from messy raw data to a polished interactive dashboard.
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 (Add screenshot here)
 
@@ -19,7 +19,7 @@ Key Metrics:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### Phase 1 — Data Understanding
 - Audited raw CSV dataset
