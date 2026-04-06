@@ -8,10 +8,13 @@ This project demonstrates the full data analyst workflow — from messy raw data
 ---
 
 ##  Dashboard Preview
+### Page 1
 ![Telco Dashboard](telco_churn_1.png)
 
+### Page 2
 ![Telco Dashboard](telco_churn_2.png)
 
+### Page 3
 ![Telco Dashboard](telco_churn_3.png)
 
 **Key Metrics:**
