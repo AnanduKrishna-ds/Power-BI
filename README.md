@@ -4,6 +4,14 @@ This repository contains Power BI dashboard projects focused on business analyti
 
 ##  Projects Included
 
+##  Dashboard Snapshots
+
+### HR Analytics Dashboard
+![HR Dashboard](HR-Analytics-Dashboard/hr_dashboard.png)
+
+### Telco Churn Dashboard
+![Telco Dashboard](Telco-Churn-Dashboard/telco_churn_1.png)
+
 ### 1️ HR Analytics Dashboard
 
 **Description:**  
@@ -16,7 +24,7 @@ This dashboard analyzes employee data to identify workforce trends, attrition pa
 - Salary vs Age Analysis
 - Employee Status Distribution
 
- Folder: `HR-Analytics-Dashboard`
+  Project Link: [HR Analytics Dashboard](./HR-Analytics-Dashboard)
 
 ---
 
@@ -32,7 +40,7 @@ This dashboard analyzes customer churn behavior in a telecom company to identify
 - Contract Type Impact on Churn
 - Tenure-Based Churn Patterns
 
- Folder: `Telco-Churn-Dashboard`
+  Project Link: [Telco Churn Dashboard](./Telco-Churn-Dashboard)
 
 ---
 
